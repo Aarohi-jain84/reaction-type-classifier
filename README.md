@@ -24,8 +24,7 @@ pip install pandas scikit-learn nltk seaborn matplotlib
 
 ## How to Run
 
-Clone this repository:
-git clone https://github.com/your-username/reaction-type-classifier.git
+Clone this repository.
 
 Open the Jupyter notebook file reaction_classifier.ipynb.
 
